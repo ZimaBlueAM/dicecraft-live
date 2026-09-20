@@ -1,40 +1,125 @@
 {
-  "schemaVersion": 1,
   "assets": [
     {
       "id": "music.menu",
       "kind": "audio",
-      "bundled": "juego-de-azar.m4a",
+      "bundled": "Audio/Loops/juego-de-azar.caf",
       "remoteURL": null,
-      "sha256": null
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.menu.muffled",
+      "kind": "audio",
+      "bundled": "Audio/Loops/juego-de-azar-muffled.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
     },
     {
       "id": "music.board",
       "kind": "audio",
-      "bundled": "board-walk.m4a",
+      "bundled": "Audio/Loops/board-walk.caf",
       "remoteURL": null,
-      "sha256": null
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.board.muffled",
+      "kind": "audio",
+      "bundled": "Audio/Loops/board-walk-muffled.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.table",
+      "kind": "audio",
+      "bundled": "Audio/Loops/table-tango.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.table.muffled",
+      "kind": "audio",
+      "bundled": "Audio/Loops/table-tango-muffled.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
     },
     {
       "id": "music.battle",
       "kind": "audio",
-      "bundled": "battle-normal.m4a",
+      "bundled": "Audio/Loops/battle-normal.caf",
       "remoteURL": null,
-      "sha256": null
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.battle.muffled",
+      "kind": "audio",
+      "bundled": "Audio/Loops/battle-normal-muffled.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
     },
     {
       "id": "music.boss.polished",
       "kind": "audio",
-      "bundled": "boss-polished-table.m4a",
+      "bundled": "Audio/Loops/boss-polished-table.caf",
       "remoteURL": null,
-      "sha256": null
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.boss.polished.muffled",
+      "kind": "audio",
+      "bundled": "Audio/Loops/boss-polished-table-muffled.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
     },
     {
       "id": "music.boss.slow",
       "kind": "audio",
-      "bundled": "boss-roll-it-slow.m4a",
+      "bundled": "Audio/Loops/boss-roll-it-slow.caf",
       "remoteURL": null,
-      "sha256": null
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.boss.slow.muffled",
+      "kind": "audio",
+      "bundled": "Audio/Loops/boss-roll-it-slow-muffled.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "ambience.bar",
+      "kind": "audio",
+      "bundled": "Audio/Ambience/bar-crowd-loop.wav",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "ambience.table",
+      "kind": "audio",
+      "bundled": "Audio/Ambience/table-crowd-loop.wav",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "sfx.drink.double",
+      "kind": "audio",
+      "bundled": "Audio/SFX/drink/04_double_gulp.wav",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
     }
-  ]
+  ],
+  "schemaVersion": 2
 }

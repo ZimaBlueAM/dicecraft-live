@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 1,
-  "contentVersion": 3,
-  "minimumBuild": 395,
+  "schemaVersion": 2,
+  "contentVersion": 4,
+  "minimumBuild": 399,
   "channel": "production",
   "files": [
     "dice/catalog.json",
@@ -13,5 +13,15 @@
     "text/strings.json",
     "assets/manifest.json"
   ],
-  "notes": "DiceCraft serverless remote content v1"
+  "notes": "Pinned run content; signed packs; dice, routes, combat and verified assets.",
+  "hashes": {
+    "dice/catalog.json": "ea708b13fce614a28edc3ff5d1e430396b702b6adcb18d871776351054f7c70b",
+    "cocktails/catalog.json": "8c8cdbeb5c3f73170e40c7828a97ccc568fdc8d75c092822c8b1651f24472007",
+    "balance/global.json": "7f5688344e6ff17f1645e460b2e336b043ea4fea3256c79a1b0988f63ebc6835",
+    "loot/rarity.json": "a124e748f8eed51e264b4c0c5bf405f89d52fe517e486f5938bc2904d12bc9e2",
+    "maps/templates.json": "f61051189ded1e2e469e1cf0ca9d80b683adbf5304c7d0b27a8349bd7c07724c",
+    "monsters/catalog.json": "ff889801dc8c6e480dded56bc313efd68d37533886e0e8c03ea4a0e217fe818d",
+    "text/strings.json": "e4a89790800ab79d4428bb95c260bbfad35cd87400d0f74896bc6fafba560938",
+    "assets/manifest.json": "47fd3ec8a6716c260a63695a85e9b1c86a51b2e5248aadf1049708029b1f877b"
+  }
 }

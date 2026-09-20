@@ -1,6 +1,9 @@
 {
-  "schemaVersion": 1,
   "strings": {
-    "content.update.ready": "新内容已准备好"
-  }
+    "content.update.ready": "新内容已准备好",
+    "content.update.nextRun": "新内容在下次出发时生效，本局保持原来的内容版本。",
+    "map.resource.name": "随机补给",
+    "dice.fusion.result": "合成永恒骰"
+  },
+  "schemaVersion": 2
 }

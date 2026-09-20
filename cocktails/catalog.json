@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "cocktails": [
     {
       "id": "moonMartini",
@@ -15,7 +15,7 @@
       "id": "echoNegroni",
       "name": "回声内格罗尼",
       "multiplier": {
-        "trigger": "distinctDice",
+        "trigger": "echoDice",
         "condition": "any",
         "numerator": 1,
         "denominator": 1

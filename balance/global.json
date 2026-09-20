@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "entryTarget": 180,
   "expectedShopGrowth": 1.18,
   "pressureMultiplier": 1.03,

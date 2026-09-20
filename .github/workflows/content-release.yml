@@ -1,0 +1,44 @@
+name: Verify and archive public content
+on:
+  push:
+    branches: [main]
+    paths: ['release.json', 'manifest.json', 'public-key.txt', 'dice/**', 'cocktails/**', 'balance/**', 'loot/**', 'maps/**', 'monsters/**', 'text/**', 'assets/**', 'tools/**', '.github/workflows/content-release.yml']
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: public-content-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  verify:
+    runs-on: macos-15
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with: { persist-credentials: false }
+      - run: swift tools/verify_envelope.swift .
+  archive:
+    needs: verify
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    runs-on: macos-15
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with: { persist-credentials: false }
+      - run: swift tools/verify_envelope.swift .
+      - run: python3 tools/archive_release.py . dist
+      - name: Archive an immutable content version
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          tag=$(python3 -c 'import json; print("content-v"+str(json.load(open("manifest.json"))["contentVersion"]))')
+          if gh release view "$tag" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1; then
+            mkdir -p previous
+            gh release download "$tag" --repo "$GITHUB_REPOSITORY" --pattern release.json --dir previous
+            cmp dist/release.json previous/release.json || { echo 'Version exists with different bytes; publish a higher version.'; exit 1; }
+          else
+            gh release create "$tag" dist/release.json dist/content.zip dist/SHA256SUMS --repo "$GITHUB_REPOSITORY" --target "$GITHUB_SHA" --title "DiceCraft $tag" --notes 'Signed data-only DiceCraft content. Requires the minimum native build recorded in the manifest.' --prerelease
+          fi

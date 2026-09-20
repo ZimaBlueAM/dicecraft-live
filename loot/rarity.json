@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "weights": {
     "normal": {
       "common": 0.6,
@@ -29,5 +29,54 @@
       "legendary": 0.19,
       "unique": 0.03
     }
-  }
+  },
+  "diePools": {
+    "shop": [
+      "dice.amber",
+      "dice.echo",
+      "dice.silver",
+      "dice.gold",
+      "dice.cinder",
+      "dice.still"
+    ],
+    "resource": [
+      "dice.amber",
+      "dice.echo",
+      "dice.silver",
+      "dice.gold",
+      "dice.cinder",
+      "dice.still"
+    ],
+    "monster": [
+      "dice.amber",
+      "dice.echo",
+      "dice.silver",
+      "dice.gold",
+      "dice.cinder",
+      "dice.still"
+    ],
+    "boss": [
+      "dice.amber",
+      "dice.echo",
+      "dice.silver",
+      "dice.gold",
+      "dice.cinder",
+      "dice.still"
+    ]
+  },
+  "cocktailPool": [
+    "moonMartini",
+    "echoNegroni",
+    "goldenSour",
+    "nightHighball",
+    "obsidianSpirit",
+    "lastSip"
+  ],
+  "monsterDropPercent": [
+    80,
+    50,
+    25,
+    10,
+    5
+  ]
 }

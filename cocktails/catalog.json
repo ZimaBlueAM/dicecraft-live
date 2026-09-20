@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "cocktails": [
+    {
+      "id": "moonMartini",
+      "name": "月白马天尼",
+      "multiplier": {
+        "trigger": "pattern",
+        "condition": "twoPairs",
+        "numerator": 2,
+        "denominator": 1
+      }
+    },
+    {
+      "id": "echoNegroni",
+      "name": "回声内格罗尼",
+      "multiplier": {
+        "trigger": "distinctDice",
+        "condition": "any",
+        "numerator": 1,
+        "denominator": 1
+      },
+      "cap": 4
+    },
+    {
+      "id": "goldenSour",
+      "name": "金叶酸酒",
+      "multiplier": {
+        "trigger": "goldEvery",
+        "condition": "2",
+        "numerator": 1,
+        "denominator": 1
+      },
+      "cap": 3
+    },
+    {
+      "id": "nightHighball",
+      "name": "夜航高球",
+      "multiplier": {
+        "trigger": "pattern",
+        "condition": "straight",
+        "numerator": 1,
+        "denominator": 1
+      }
+    },
+    {
+      "id": "obsidianSpirit",
+      "name": "黑曜烈酒",
+      "multiplier": {
+        "trigger": "final",
+        "condition": "always",
+        "numerator": 5,
+        "denominator": 4
+      }
+    },
+    {
+      "id": "lastSip",
+      "name": "最后一口",
+      "multiplier": {
+        "trigger": "rerollsRemaining",
+        "condition": "any",
+        "numerator": 1,
+        "denominator": 1
+      },
+      "cap": 3
+    }
+  ]
+}

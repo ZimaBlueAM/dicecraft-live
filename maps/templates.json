@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "templates": [
+    {
+      "id": "grid.3x3",
+      "width": 3,
+      "height": 3,
+      "stepBudget": 4,
+      "maxReachableResources": 2
+    },
+    {
+      "id": "grid.5x5",
+      "width": 5,
+      "height": 5,
+      "stepBudget": 6,
+      "maxReachableResources": 2
+    }
+  ]
+}

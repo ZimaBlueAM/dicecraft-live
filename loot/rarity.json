@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "weights": {
+    "normal": {
+      "common": 0.6,
+      "magic": 0.25,
+      "rare": 0.12,
+      "legendary": 0.029,
+      "unique": 0.001
+    },
+    "elite": {
+      "common": 0.4,
+      "magic": 0.32,
+      "rare": 0.2,
+      "legendary": 0.075,
+      "unique": 0.005
+    },
+    "rare": {
+      "common": 0.08,
+      "magic": 0.2,
+      "rare": 0.34,
+      "legendary": 0.3,
+      "unique": 0.08
+    },
+    "boss": {
+      "common": 0.18,
+      "magic": 0.3,
+      "rare": 0.3,
+      "legendary": 0.19,
+      "unique": 0.03
+    }
+  }
+}

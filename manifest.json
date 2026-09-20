@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": 3,
+  "minimumBuild": 395,
+  "channel": "production",
+  "files": [
+    "dice/catalog.json",
+    "cocktails/catalog.json",
+    "balance/global.json",
+    "loot/rarity.json",
+    "maps/templates.json",
+    "monsters/catalog.json",
+    "text/strings.json",
+    "assets/manifest.json"
+  ],
+  "notes": "DiceCraft serverless remote content v1"
+}

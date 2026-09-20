@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "music.menu",
+      "kind": "audio",
+      "bundled": "juego-de-azar.m4a",
+      "remoteURL": null,
+      "sha256": null
+    },
+    {
+      "id": "music.board",
+      "kind": "audio",
+      "bundled": "board-walk.m4a",
+      "remoteURL": null,
+      "sha256": null
+    },
+    {
+      "id": "music.battle",
+      "kind": "audio",
+      "bundled": "battle-normal.m4a",
+      "remoteURL": null,
+      "sha256": null
+    },
+    {
+      "id": "music.boss.polished",
+      "kind": "audio",
+      "bundled": "boss-polished-table.m4a",
+      "remoteURL": null,
+      "sha256": null
+    },
+    {
+      "id": "music.boss.slow",
+      "kind": "audio",
+      "bundled": "boss-roll-it-slow.m4a",
+      "remoteURL": null,
+      "sha256": null
+    }
+  ]
+}

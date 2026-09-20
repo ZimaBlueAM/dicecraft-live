@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "entryTarget": 180,
+  "expectedShopGrowth": 1.18,
+  "pressureMultiplier": 1.03,
+  "bossMultiplier": 1.12,
+  "shopBasePrice": 4,
+  "shopPriceStep": 2,
+  "shopLevelsPerStep": 3
+}

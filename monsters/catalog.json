@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "defaults": {
+    "normalHealthMultiplier": 1.0,
+    "eliteHealthMultiplier": 1.03,
+    "bossHealthMultiplier": 1.12,
+    "bossEveryLayers": 3
+  }
+}

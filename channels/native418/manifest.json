@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "contentVersion": 7,
+  "minimumBuild": 418,
+  "channel": "production",
+  "files": [
+    "dice/catalog.json",
+    "cocktails/catalog.json",
+    "balance/global.json",
+    "loot/rarity.json",
+    "maps/templates.json",
+    "monsters/catalog.json",
+    "text/strings.json",
+    "assets/manifest.json"
+  ],
+  "notes": "限步探索、三层Boss、地图与资源随机、清晰骰子与随机对白。保留C6音乐。",
+  "hashes": {
+    "dice/catalog.json": "734d1e6711a78ff1a2d38b7c8c7337267ec78bb6eefd7f2ea34f52eadaa58950",
+    "cocktails/catalog.json": "7c4e19ac56f2a66226c59ac27b4fb43e794203fbc383680d93da4ebae55ef92c",
+    "balance/global.json": "7f5688344e6ff17f1645e460b2e336b043ea4fea3256c79a1b0988f63ebc6835",
+    "loot/rarity.json": "b43afc48af98dbf0e757e7de25d4991319d9a64d5bf077470eec10e82c196ad2",
+    "maps/templates.json": "e45abff8c2d34a7eb396d41d7ebea47c4d663a0b42347aea1facc11bffea28a8",
+    "monsters/catalog.json": "ff889801dc8c6e480dded56bc313efd68d37533886e0e8c03ea4a0e217fe818d",
+    "text/strings.json": "e4a89790800ab79d4428bb95c260bbfad35cd87400d0f74896bc6fafba560938",
+    "assets/manifest.json": "c160a708567700c5f7ab518a94ca2ce50a6461e4e654dbd9fc6cc58ed1ce5767"
+  }
+}

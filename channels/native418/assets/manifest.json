@@ -1,0 +1,230 @@
+{
+  "assets": [
+    {
+      "id": "music.menu",
+      "kind": "audio",
+      "bundled": "Audio/Loops/juego-de-azar.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.menu.muffled",
+      "kind": "audio",
+      "bundled": "Audio/Loops/juego-de-azar-muffled.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.board",
+      "kind": "audio",
+      "bundled": "Audio/Loops/board-walk.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.board.muffled",
+      "kind": "audio",
+      "bundled": "Audio/Loops/board-walk-muffled.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.table",
+      "kind": "audio",
+      "bundled": "Audio/Loops/table-tango.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.table.muffled",
+      "kind": "audio",
+      "bundled": "Audio/Loops/table-tango-muffled.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.battle",
+      "kind": "audio",
+      "bundled": "Audio/Loops/battle-normal.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.battle.muffled",
+      "kind": "audio",
+      "bundled": "Audio/Loops/battle-normal-muffled.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.boss.polished",
+      "kind": "audio",
+      "bundled": "Audio/Loops/boss-polished-table.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.boss.polished.muffled",
+      "kind": "audio",
+      "bundled": "Audio/Loops/boss-polished-table-muffled.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.boss.slow",
+      "kind": "audio",
+      "bundled": "Audio/Loops/boss-roll-it-slow.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.boss.slow.muffled",
+      "kind": "audio",
+      "bundled": "Audio/Loops/boss-roll-it-slow-muffled.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "ambience.bar",
+      "kind": "audio",
+      "bundled": "Audio/Ambience/bar-crowd-loop.wav",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "ambience.table",
+      "kind": "audio",
+      "bundled": "Audio/Ambience/table-crowd-loop.wav",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "sfx.drink.double",
+      "kind": "audio",
+      "bundled": "Audio/SFX/drink/04_double_gulp.wav",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.playlist.techno-strange-beats.regular",
+      "kind": "audio",
+      "bundled": "Audio/RemotePlaylist/techno-strange-beats.m4a",
+      "remoteURL": "https://raw.githubusercontent.com/ZimaBlueAM/dicecraft-live/main/media/music417/9111a29eb3c76a7fb892d94b3d0b596d93b74469036fe746a4594149d8e74f19.m4a",
+      "sha256": "9111a29eb3c76a7fb892d94b3d0b596d93b74469036fe746a4594149d8e74f19",
+      "byteCount": 4605904
+    },
+    {
+      "id": "music.playlist.techno-strange-beats.muffled",
+      "kind": "audio",
+      "bundled": "Audio/RemotePlaylist/techno-strange-beats-muffled.m4a",
+      "remoteURL": "https://raw.githubusercontent.com/ZimaBlueAM/dicecraft-live/main/media/music417/b4f82cfd0b9d872a0866cca788fea2fab36d08b31cbbade5b07cd1a5cdb1ebc7.m4a",
+      "sha256": "b4f82cfd0b9d872a0866cca788fea2fab36d08b31cbbade5b07cd1a5cdb1ebc7",
+      "byteCount": 4572460
+    },
+    {
+      "id": "music.playlist.techno-strange-beats.probe",
+      "kind": "musicProbe",
+      "bundled": "Audio/RemotePlaylist/techno-strange-beats.json",
+      "remoteURL": "https://raw.githubusercontent.com/ZimaBlueAM/dicecraft-live/main/media/music417/02cd3d14361509d61f7fcbe93358b51f38030c8bcc1d5b2cf9caa39d20caa82d.json",
+      "sha256": "02cd3d14361509d61f7fcbe93358b51f38030c8bcc1d5b2cf9caa39d20caa82d",
+      "byteCount": 192855
+    },
+    {
+      "id": "music.playlist.glassy-pads.regular",
+      "kind": "audio",
+      "bundled": "Audio/RemotePlaylist/glassy-pads.m4a",
+      "remoteURL": "https://raw.githubusercontent.com/ZimaBlueAM/dicecraft-live/main/media/music417/e131eabc9df5adb6435f007f2e04d5a3a750160a48db19419b6d1e5db87ad30a.m4a",
+      "sha256": "e131eabc9df5adb6435f007f2e04d5a3a750160a48db19419b6d1e5db87ad30a",
+      "byteCount": 4233464
+    },
+    {
+      "id": "music.playlist.glassy-pads.muffled",
+      "kind": "audio",
+      "bundled": "Audio/RemotePlaylist/glassy-pads-muffled.m4a",
+      "remoteURL": "https://raw.githubusercontent.com/ZimaBlueAM/dicecraft-live/main/media/music417/bc22b6dde621b349f23fa22bb3ff34bdaac7e1d14f638892fbdddb401a07af93.m4a",
+      "sha256": "bc22b6dde621b349f23fa22bb3ff34bdaac7e1d14f638892fbdddb401a07af93",
+      "byteCount": 4091595
+    },
+    {
+      "id": "music.playlist.glassy-pads.probe",
+      "kind": "musicProbe",
+      "bundled": "Audio/RemotePlaylist/glassy-pads.json",
+      "remoteURL": "https://raw.githubusercontent.com/ZimaBlueAM/dicecraft-live/main/media/music417/726634bc5dc67391c1c6071d0d9bf1645eb5214a05ce22e76a9784ef0fa33663.json",
+      "sha256": "726634bc5dc67391c1c6071d0d9bf1645eb5214a05ce22e76a9784ef0fa33663",
+      "byteCount": 173530
+    },
+    {
+      "id": "music.playlist.untitled.regular",
+      "kind": "audio",
+      "bundled": "Audio/RemotePlaylist/untitled.m4a",
+      "remoteURL": "https://raw.githubusercontent.com/ZimaBlueAM/dicecraft-live/main/media/music417/4f65560241f4851d2773fd00e25c10955757d8bec28195393853d61389728d47.m4a",
+      "sha256": "4f65560241f4851d2773fd00e25c10955757d8bec28195393853d61389728d47",
+      "byteCount": 3469446
+    },
+    {
+      "id": "music.playlist.untitled.muffled",
+      "kind": "audio",
+      "bundled": "Audio/RemotePlaylist/untitled-muffled.m4a",
+      "remoteURL": "https://raw.githubusercontent.com/ZimaBlueAM/dicecraft-live/main/media/music417/4f3778c9c4465973d9061413b85457ddf7e0603696c88ddf4876dd0e30d4a92a.m4a",
+      "sha256": "4f3778c9c4465973d9061413b85457ddf7e0603696c88ddf4876dd0e30d4a92a",
+      "byteCount": 3435088
+    },
+    {
+      "id": "music.playlist.untitled.probe",
+      "kind": "musicProbe",
+      "bundled": "Audio/RemotePlaylist/untitled.json",
+      "remoteURL": "https://raw.githubusercontent.com/ZimaBlueAM/dicecraft-live/main/media/music417/9af2ce84a8a008c622a575d88d36bb446b1cccd6b27ad3dfa5cf01374f284558.json",
+      "sha256": "9af2ce84a8a008c622a575d88d36bb446b1cccd6b27ad3dfa5cf01374f284558",
+      "byteCount": 145755
+    }
+  ],
+  "schemaVersion": 2,
+  "musicPlaylist": {
+    "mode": "shuffleBag",
+    "includeOriginal": true,
+    "songs": [
+      {
+        "id": "techno-strange-beats",
+        "title": "Techno Strange Beats",
+        "regularAssetID": "music.playlist.techno-strange-beats.regular",
+        "muffledAssetID": "music.playlist.techno-strange-beats.muffled",
+        "probeAssetID": "music.playlist.techno-strange-beats.probe",
+        "duration": 183.78666666666666,
+        "gain": 1.0
+      },
+      {
+        "id": "glassy-pads",
+        "title": "Glassy Pads",
+        "regularAssetID": "music.playlist.glassy-pads.regular",
+        "muffledAssetID": "music.playlist.glassy-pads.muffled",
+        "probeAssetID": "music.playlist.glassy-pads.probe",
+        "duration": 164.50133333333332,
+        "gain": 1.0
+      },
+      {
+        "id": "untitled",
+        "title": "Untitled",
+        "regularAssetID": "music.playlist.untitled.regular",
+        "muffledAssetID": "music.playlist.untitled.muffled",
+        "probeAssetID": "music.playlist.untitled.probe",
+        "duration": 138.34666666666666,
+        "gain": 1.0
+      }
+    ]
+  }
+}

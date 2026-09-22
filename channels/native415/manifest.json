@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "contentVersion": 5,
+  "minimumBuild": 415,
+  "channel": "production",
+  "files": [
+    "dice/catalog.json",
+    "cocktails/catalog.json",
+    "balance/global.json",
+    "loot/rarity.json",
+    "maps/templates.json",
+    "monsters/catalog.json",
+    "text/strings.json",
+    "assets/manifest.json"
+  ],
+  "notes": "50 native resource models; data-defined board events, choices, rewards, monsters and topology.",
+  "hashes": {
+    "dice/catalog.json": "ea708b13fce614a28edc3ff5d1e430396b702b6adcb18d871776351054f7c70b",
+    "cocktails/catalog.json": "7c4e19ac56f2a66226c59ac27b4fb43e794203fbc383680d93da4ebae55ef92c",
+    "balance/global.json": "7f5688344e6ff17f1645e460b2e336b043ea4fea3256c79a1b0988f63ebc6835",
+    "loot/rarity.json": "a124e748f8eed51e264b4c0c5bf405f89d52fe517e486f5938bc2904d12bc9e2",
+    "maps/templates.json": "1eeed550fd475c5127fd7569596662ef602f0d7654b31a6070356c4da49d461e",
+    "monsters/catalog.json": "ff889801dc8c6e480dded56bc313efd68d37533886e0e8c03ea4a0e217fe818d",
+    "text/strings.json": "e4a89790800ab79d4428bb95c260bbfad35cd87400d0f74896bc6fafba560938",
+    "assets/manifest.json": "47fd3ec8a6716c260a63695a85e9b1c86a51b2e5248aadf1049708029b1f877b"
+  }
+}

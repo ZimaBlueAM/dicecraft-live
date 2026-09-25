@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 2,
+  "cocktails": [
+    {
+      "id": "moonMartini",
+      "name": "月白马天尼",
+      "multiplier": {
+        "trigger": "pattern",
+        "condition": "twoPairs",
+        "numerator": 2,
+        "denominator": 1
+      },
+      "openingWeight": 3
+    },
+    {
+      "id": "echoNegroni",
+      "name": "回声内格罗尼",
+      "multiplier": {
+        "trigger": "echoDice",
+        "condition": "any",
+        "numerator": 1,
+        "denominator": 1
+      },
+      "cap": 4,
+      "openingWeight": 3
+    },
+    {
+      "id": "goldenSour",
+      "name": "金叶酸酒",
+      "multiplier": {
+        "trigger": "goldEvery",
+        "condition": "2",
+        "numerator": 1,
+        "denominator": 1
+      },
+      "cap": 3,
+      "openingWeight": 3
+    },
+    {
+      "id": "nightHighball",
+      "name": "夜航高球",
+      "multiplier": {
+        "trigger": "pattern",
+        "condition": "straight",
+        "numerator": 1,
+        "denominator": 1
+      },
+      "openingWeight": 3
+    },
+    {
+      "id": "obsidianSpirit",
+      "name": "黑曜烈酒",
+      "multiplier": {
+        "trigger": "final",
+        "condition": "always",
+        "numerator": 5,
+        "denominator": 4
+      },
+      "openingWeight": 3
+    },
+    {
+      "id": "lastSip",
+      "name": "最后一口",
+      "multiplier": {
+        "trigger": "rerollsRemaining",
+        "condition": "any",
+        "numerator": 1,
+        "denominator": 1
+      },
+      "cap": 3,
+      "openingWeight": 3
+    },
+    {
+      "id": "cedarReserve",
+      "name": "雪松陈酿",
+      "multiplier": {
+        "trigger": "pattern",
+        "condition": "pair",
+        "numerator": 1,
+        "denominator": 1
+      },
+      "cap": 4,
+      "openingWeight": 1,
+      "localAppearance": {
+        "modelID": "glass.copita",
+        "seed": 497792
+      }
+    },
+    {
+      "id": "saltEcho",
+      "name": "盐岸回声",
+      "multiplier": {
+        "trigger": "echoDice",
+        "condition": "any",
+        "numerator": 1,
+        "denominator": 2
+      },
+      "cap": 4,
+      "openingWeight": 1,
+      "localAppearance": {
+        "modelID": "glass.coupe",
+        "seed": 454363
+      }
+    },
+    {
+      "id": "amberRefrain",
+      "name": "琥珀叠句",
+      "multiplier": {
+        "trigger": "pattern",
+        "condition": "threeOfKind",
+        "numerator": 2,
+        "denominator": 1
+      },
+      "cap": 4,
+      "openingWeight": 1,
+      "localAppearance": {
+        "modelID": "glass.snifter",
+        "seed": 461473
+      }
+    },
+    {
+      "id": "vermilionProof",
+      "name": "朱砂余韵",
+      "multiplier": {
+        "trigger": "final",
+        "condition": "always",
+        "numerator": 6,
+        "denominator": 5
+      },
+      "cap": 4,
+      "openingWeight": 1,
+      "localAppearance": {
+        "modelID": "glass.highball",
+        "seed": 453834
+      }
+    }
+  ]
+}

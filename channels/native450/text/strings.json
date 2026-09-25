@@ -1,0 +1,9 @@
+{
+  "strings": {
+    "content.update.ready": "C22 已校验：酒吧环境底噪升级为两条更长的复合环境床，降低短循环重复感。",
+    "content.update.nextRun": "下载完成后即可使用新的酒吧环境声，无需新开局。",
+    "map.resource.name": "随机补给",
+    "dice.fusion.result": "合成永恒骰"
+  },
+  "schemaVersion": 2
+}

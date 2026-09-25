@@ -1,0 +1,419 @@
+{
+  "assets": [
+    {
+      "id": "music.menu",
+      "kind": "audio",
+      "bundled": "Audio/Loops/juego-de-azar.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.menu.muffled",
+      "kind": "audio",
+      "bundled": "Audio/Loops/juego-de-azar-muffled.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.board",
+      "kind": "audio",
+      "bundled": "Audio/Loops/board-walk.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.board.muffled",
+      "kind": "audio",
+      "bundled": "Audio/Loops/board-walk-muffled.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.table",
+      "kind": "audio",
+      "bundled": "Audio/Loops/table-tango.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.table.muffled",
+      "kind": "audio",
+      "bundled": "Audio/Loops/table-tango-muffled.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.battle",
+      "kind": "audio",
+      "bundled": "Audio/Loops/battle-normal.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.battle.muffled",
+      "kind": "audio",
+      "bundled": "Audio/Loops/battle-normal-muffled.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.boss.polished",
+      "kind": "audio",
+      "bundled": "Audio/Loops/boss-polished-table.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.boss.polished.muffled",
+      "kind": "audio",
+      "bundled": "Audio/Loops/boss-polished-table-muffled.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.boss.slow",
+      "kind": "audio",
+      "bundled": "Audio/Loops/boss-roll-it-slow.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.boss.slow.muffled",
+      "kind": "audio",
+      "bundled": "Audio/Loops/boss-roll-it-slow-muffled.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "ambience.bar",
+      "kind": "audio",
+      "bundled": "Audio/Ambience/bar-crowd-loop.wav",
+      "remoteURL": "https://raw.githubusercontent.com/ZimaBlueAM/dicecraft-live/main/media/ambience/608fd78818a20b853997db2ba192851782ee44cb8e3d73a658c84c49bcebf54d.m4a",
+      "sha256": "608fd78818a20b853997db2ba192851782ee44cb8e3d73a658c84c49bcebf54d",
+      "byteCount": 1357530
+    },
+    {
+      "id": "ambience.table",
+      "kind": "audio",
+      "bundled": "Audio/Ambience/table-crowd-loop.wav",
+      "remoteURL": "https://raw.githubusercontent.com/ZimaBlueAM/dicecraft-live/main/media/ambience/9dfe3d89c27550a13a95a615b606c16a21d8918bf9c8a724c5a43b56da7932de.m4a",
+      "sha256": "9dfe3d89c27550a13a95a615b606c16a21d8918bf9c8a724c5a43b56da7932de",
+      "byteCount": 1480141
+    },
+    {
+      "id": "sfx.drink.double",
+      "kind": "audio",
+      "bundled": "Audio/SFX/drink/04_double_gulp.wav",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.playlist.techno-strange-beats.regular",
+      "kind": "audio",
+      "bundled": "Audio/RemotePlaylist/techno-strange-beats.m4a",
+      "remoteURL": "https://raw.githubusercontent.com/ZimaBlueAM/dicecraft-live/main/media/music417/9111a29eb3c76a7fb892d94b3d0b596d93b74469036fe746a4594149d8e74f19.m4a",
+      "sha256": "9111a29eb3c76a7fb892d94b3d0b596d93b74469036fe746a4594149d8e74f19",
+      "byteCount": 4605904
+    },
+    {
+      "id": "music.playlist.techno-strange-beats.muffled",
+      "kind": "audio",
+      "bundled": "Audio/RemotePlaylist/techno-strange-beats-muffled.m4a",
+      "remoteURL": "https://raw.githubusercontent.com/ZimaBlueAM/dicecraft-live/main/media/music417/b4f82cfd0b9d872a0866cca788fea2fab36d08b31cbbade5b07cd1a5cdb1ebc7.m4a",
+      "sha256": "b4f82cfd0b9d872a0866cca788fea2fab36d08b31cbbade5b07cd1a5cdb1ebc7",
+      "byteCount": 4572460
+    },
+    {
+      "id": "music.playlist.techno-strange-beats.probe",
+      "kind": "musicProbe",
+      "bundled": "Audio/RemotePlaylist/techno-strange-beats.json",
+      "remoteURL": "https://raw.githubusercontent.com/ZimaBlueAM/dicecraft-live/main/media/music417/02cd3d14361509d61f7fcbe93358b51f38030c8bcc1d5b2cf9caa39d20caa82d.json",
+      "sha256": "02cd3d14361509d61f7fcbe93358b51f38030c8bcc1d5b2cf9caa39d20caa82d",
+      "byteCount": 192855
+    },
+    {
+      "id": "music.playlist.glassy-pads.regular",
+      "kind": "audio",
+      "bundled": "Audio/RemotePlaylist/glassy-pads.m4a",
+      "remoteURL": "https://raw.githubusercontent.com/ZimaBlueAM/dicecraft-live/main/media/music417/e131eabc9df5adb6435f007f2e04d5a3a750160a48db19419b6d1e5db87ad30a.m4a",
+      "sha256": "e131eabc9df5adb6435f007f2e04d5a3a750160a48db19419b6d1e5db87ad30a",
+      "byteCount": 4233464
+    },
+    {
+      "id": "music.playlist.glassy-pads.muffled",
+      "kind": "audio",
+      "bundled": "Audio/RemotePlaylist/glassy-pads-muffled.m4a",
+      "remoteURL": "https://raw.githubusercontent.com/ZimaBlueAM/dicecraft-live/main/media/music417/bc22b6dde621b349f23fa22bb3ff34bdaac7e1d14f638892fbdddb401a07af93.m4a",
+      "sha256": "bc22b6dde621b349f23fa22bb3ff34bdaac7e1d14f638892fbdddb401a07af93",
+      "byteCount": 4091595
+    },
+    {
+      "id": "music.playlist.glassy-pads.probe",
+      "kind": "musicProbe",
+      "bundled": "Audio/RemotePlaylist/glassy-pads.json",
+      "remoteURL": "https://raw.githubusercontent.com/ZimaBlueAM/dicecraft-live/main/media/music417/726634bc5dc67391c1c6071d0d9bf1645eb5214a05ce22e76a9784ef0fa33663.json",
+      "sha256": "726634bc5dc67391c1c6071d0d9bf1645eb5214a05ce22e76a9784ef0fa33663",
+      "byteCount": 173530
+    },
+    {
+      "id": "music.playlist.untitled.regular",
+      "kind": "audio",
+      "bundled": "Audio/RemotePlaylist/untitled.m4a",
+      "remoteURL": "https://raw.githubusercontent.com/ZimaBlueAM/dicecraft-live/main/media/music417/4f65560241f4851d2773fd00e25c10955757d8bec28195393853d61389728d47.m4a",
+      "sha256": "4f65560241f4851d2773fd00e25c10955757d8bec28195393853d61389728d47",
+      "byteCount": 3469446
+    },
+    {
+      "id": "music.playlist.untitled.muffled",
+      "kind": "audio",
+      "bundled": "Audio/RemotePlaylist/untitled-muffled.m4a",
+      "remoteURL": "https://raw.githubusercontent.com/ZimaBlueAM/dicecraft-live/main/media/music417/4f3778c9c4465973d9061413b85457ddf7e0603696c88ddf4876dd0e30d4a92a.m4a",
+      "sha256": "4f3778c9c4465973d9061413b85457ddf7e0603696c88ddf4876dd0e30d4a92a",
+      "byteCount": 3435088
+    },
+    {
+      "id": "music.playlist.untitled.probe",
+      "kind": "musicProbe",
+      "bundled": "Audio/RemotePlaylist/untitled.json",
+      "remoteURL": "https://raw.githubusercontent.com/ZimaBlueAM/dicecraft-live/main/media/music417/9af2ce84a8a008c622a575d88d36bb446b1cccd6b27ad3dfa5cf01374f284558.json",
+      "sha256": "9af2ce84a8a008c622a575d88d36bb446b1cccd6b27ad3dfa5cf01374f284558",
+      "byteCount": 145755
+    },
+    {
+      "id": "ambience450.crowd-a",
+      "kind": "audio",
+      "bundled": "Ambience450/crowd-a.wav",
+      "remoteURL": "https://raw.githubusercontent.com/ZimaBlueAM/dicecraft-live/main/media/ambience450/1962a1aea7d9b4957a8843f6032f630517ace47af76884e7e6221b8ebee9c8cc.wav",
+      "sha256": "1962a1aea7d9b4957a8843f6032f630517ace47af76884e7e6221b8ebee9c8cc",
+      "byteCount": 2544044
+    },
+    {
+      "id": "ambience450.crowd-b",
+      "kind": "audio",
+      "bundled": "Ambience450/crowd-b.wav",
+      "remoteURL": "https://raw.githubusercontent.com/ZimaBlueAM/dicecraft-live/main/media/ambience450/01f7ab92414087f112e9e54252109e3cbbd4b118db8992e6a777dc5f6f1e4c8a.wav",
+      "sha256": "01f7ab92414087f112e9e54252109e3cbbd4b118db8992e6a777dc5f6f1e4c8a",
+      "byteCount": 2736044
+    },
+    {
+      "id": "ambience450.distant-a",
+      "kind": "audio",
+      "bundled": "Ambience450/distant-a.wav",
+      "remoteURL": "https://raw.githubusercontent.com/ZimaBlueAM/dicecraft-live/main/media/ambience450/ac22ab7e836c41a27549af20470848ba6533e9a438070e44b2a7644d82a498cd.wav",
+      "sha256": "ac22ab7e836c41a27549af20470848ba6533e9a438070e44b2a7644d82a498cd",
+      "byteCount": 2256044
+    },
+    {
+      "id": "ambience450.distant-b",
+      "kind": "audio",
+      "bundled": "Ambience450/distant-b.wav",
+      "remoteURL": "https://raw.githubusercontent.com/ZimaBlueAM/dicecraft-live/main/media/ambience450/a1a8797e19495ec604450f83e503bfac1a0035c89a3e343fd2f2398ecc31f298.wav",
+      "sha256": "a1a8797e19495ec604450f83e503bfac1a0035c89a3e343fd2f2398ecc31f298",
+      "byteCount": 2640044
+    },
+    {
+      "id": "ambience450.room",
+      "kind": "audio",
+      "bundled": "Ambience450/room.wav",
+      "remoteURL": "https://raw.githubusercontent.com/ZimaBlueAM/dicecraft-live/main/media/ambience450/8abd7c438a21edb654d50eddcacf3eb29611b54d3a40fcac139bf7439290b26b.wav",
+      "sha256": "8abd7c438a21edb654d50eddcacf3eb29611b54d3a40fcac139bf7439290b26b",
+      "byteCount": 2928044
+    }
+  ],
+  "schemaVersion": 2,
+  "musicPlaylist": {
+    "mode": "shuffleBag",
+    "includeOriginal": true,
+    "songs": [
+      {
+        "id": "techno-strange-beats",
+        "title": "Techno Strange Beats",
+        "regularAssetID": "music.playlist.techno-strange-beats.regular",
+        "muffledAssetID": "music.playlist.techno-strange-beats.muffled",
+        "probeAssetID": "music.playlist.techno-strange-beats.probe",
+        "duration": 183.78666666666666,
+        "gain": 1.0
+      },
+      {
+        "id": "glassy-pads",
+        "title": "Glassy Pads",
+        "regularAssetID": "music.playlist.glassy-pads.regular",
+        "muffledAssetID": "music.playlist.glassy-pads.muffled",
+        "probeAssetID": "music.playlist.glassy-pads.probe",
+        "duration": 164.50133333333332,
+        "gain": 1.0
+      },
+      {
+        "id": "untitled",
+        "title": "Untitled",
+        "regularAssetID": "music.playlist.untitled.regular",
+        "muffledAssetID": "music.playlist.untitled.muffled",
+        "probeAssetID": "music.playlist.untitled.probe",
+        "duration": 138.34666666666666,
+        "gain": 1.0
+      }
+    ]
+  },
+  "presentation": {
+    "pressedScale": 0.956,
+    "releaseDuration": 0.12,
+    "selectionDuration": 0.14,
+    "iconRevealDuration": 0.08,
+    "impactVolume": 0.65,
+    "interfaceVolume": 0.8,
+    "resourceCoverage": 0.92
+  },
+  "ambience450": {
+    "schemaVersion": 1,
+    "revision": 1,
+    "enabled": true,
+    "gainScale": 1,
+    "maxLayers": 3,
+    "crossfadeSeconds": 4,
+    "clips": [
+      {
+        "id": "crowd-a",
+        "assetID": "ambience450.crowd-a",
+        "seconds": 53
+      },
+      {
+        "id": "crowd-b",
+        "assetID": "ambience450.crowd-b",
+        "seconds": 57
+      },
+      {
+        "id": "distant-a",
+        "assetID": "ambience450.distant-a",
+        "seconds": 47
+      },
+      {
+        "id": "distant-b",
+        "assetID": "ambience450.distant-b",
+        "seconds": 55
+      },
+      {
+        "id": "room",
+        "assetID": "ambience450.room",
+        "seconds": 61
+      }
+    ],
+    "layers": [
+      {
+        "id": "crowd",
+        "required": true,
+        "clips": [
+          "crowd-a",
+          "crowd-b"
+        ],
+        "gain": 0.7,
+        "pan": {
+          "min": -0.12,
+          "max": 0.12
+        },
+        "hold": {
+          "min": 65,
+          "max": 115
+        },
+        "rest": {
+          "min": 10,
+          "max": 25
+        },
+        "driftDepth": 0.18,
+        "driftPeriod": {
+          "min": 37,
+          "max": 79
+        }
+      },
+      {
+        "id": "room",
+        "required": true,
+        "clips": [
+          "room"
+        ],
+        "gain": 0.1,
+        "pan": {
+          "min": -0.1,
+          "max": 0.1
+        },
+        "hold": {
+          "min": 90,
+          "max": 170
+        },
+        "rest": {
+          "min": 10,
+          "max": 25
+        },
+        "driftDepth": 0.22,
+        "driftPeriod": {
+          "min": 41,
+          "max": 97
+        }
+      },
+      {
+        "id": "far-left",
+        "required": false,
+        "clips": [
+          "distant-a",
+          "distant-b"
+        ],
+        "gain": 0.38,
+        "pan": {
+          "min": -0.6,
+          "max": -0.25
+        },
+        "hold": {
+          "min": 55,
+          "max": 95
+        },
+        "rest": {
+          "min": 12,
+          "max": 32
+        },
+        "driftDepth": 0.25,
+        "driftPeriod": {
+          "min": 29,
+          "max": 71
+        }
+      },
+      {
+        "id": "far-right",
+        "required": false,
+        "clips": [
+          "distant-b",
+          "distant-a"
+        ],
+        "gain": 0.32,
+        "pan": {
+          "min": 0.25,
+          "max": 0.6
+        },
+        "hold": {
+          "min": 59,
+          "max": 109
+        },
+        "rest": {
+          "min": 17,
+          "max": 37
+        },
+        "driftDepth": 0.25,
+        "driftPeriod": {
+          "min": 43,
+          "max": 89
+        }
+      }
+    ]
+  }
+}

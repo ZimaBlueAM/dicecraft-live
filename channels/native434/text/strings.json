@@ -1,7 +1,7 @@
 {
   "strings": {
-    "content.update.ready": "C21 酒液外观已校验：保留随机酒，加入4款三层与泡沫精选酒。新开局后可见，本局内容不变。",
-    "content.update.nextRun": "本局保持原版本。返回首页新开局，再点击换酒查看随机外观；同一技能名也可以有不同外观。",
+    "content.update.ready": "C22 已校验：酒吧环境底噪升级为两条更长的复合环境床，降低短循环重复感。",
+    "content.update.nextRun": "下载完成后即可使用新的酒吧环境声，无需新开局。",
     "map.resource.name": "随机补给",
     "dice.fusion.result": "合成永恒骰"
   },

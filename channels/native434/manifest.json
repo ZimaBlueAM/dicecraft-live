@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "contentVersion": 21,
+  "contentVersion": 22,
   "minimumBuild": 434,
   "channel": "production",
   "files": [
@@ -13,7 +13,7 @@
     "text/strings.json",
     "assets/manifest.json"
   ],
-  "notes": "C21: restore four existing cocktail IDs with curated clear-glass three-layer liquid seeds; two have foam. Six per-instance random cocktails keep 3x opening weight. No new skill IDs or effect-value changes. Not a continuous-gradient renderer or a global layer-percentage control. Retains all other channels and catalogs.",
+  "notes": "C22: two longer composite bar ambience beds (67s/73s) built from staggered crowd layers plus sparse glass/drink events. Existing client still crossfades them every 18s; no runtime multilayer engine yet. Preserves C21 cocktails and all gameplay/music values.",
   "hashes": {
     "dice/catalog.json": "734d1e6711a78ff1a2d38b7c8c7337267ec78bb6eefd7f2ea34f52eadaa58950",
     "cocktails/catalog.json": "10a9cf98f338f3a4466b4b75c60a0473fae9d12e29403695c6367ef9add09300",
@@ -21,7 +21,7 @@
     "loot/rarity.json": "b43afc48af98dbf0e757e7de25d4991319d9a64d5bf077470eec10e82c196ad2",
     "maps/templates.json": "cdbae38c26ca2edb5ea22738cead84afbbb476edfca322f4a155bc001f678644",
     "monsters/catalog.json": "ff889801dc8c6e480dded56bc313efd68d37533886e0e8c03ea4a0e217fe818d",
-    "text/strings.json": "98cba1f63add5a3a421678a5238217cba4452e85603efb455337cae3f63125d5",
-    "assets/manifest.json": "17553a165b4f27fd7cbe792e9b51abc3eebe16122088aad651b73f25aed65a69"
+    "text/strings.json": "76311afe18e7ef028fb290891b8795f55718544597839a6b943c31ac18093d81",
+    "assets/manifest.json": "2f7cc66084eb965bc457055775034ed1e18c83f65a96865a440bb07cb1a27e81"
   }
 }

@@ -100,17 +100,17 @@
       "id": "ambience.bar",
       "kind": "audio",
       "bundled": "Audio/Ambience/bar-crowd-loop.wav",
-      "remoteURL": null,
-      "sha256": null,
-      "byteCount": null
+      "remoteURL": "https://raw.githubusercontent.com/ZimaBlueAM/dicecraft-live/main/media/ambience/608fd78818a20b853997db2ba192851782ee44cb8e3d73a658c84c49bcebf54d.m4a",
+      "sha256": "608fd78818a20b853997db2ba192851782ee44cb8e3d73a658c84c49bcebf54d",
+      "byteCount": 1357530
     },
     {
       "id": "ambience.table",
       "kind": "audio",
       "bundled": "Audio/Ambience/table-crowd-loop.wav",
-      "remoteURL": null,
-      "sha256": null,
-      "byteCount": null
+      "remoteURL": "https://raw.githubusercontent.com/ZimaBlueAM/dicecraft-live/main/media/ambience/9dfe3d89c27550a13a95a615b606c16a21d8918bf9c8a724c5a43b56da7932de.m4a",
+      "sha256": "9dfe3d89c27550a13a95a615b606c16a21d8918bf9c8a724c5a43b56da7932de",
+      "byteCount": 1480141
     },
     {
       "id": "sfx.drink.double",

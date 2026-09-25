@@ -226,5 +226,14 @@
         "gain": 1.0
       }
     ]
+  },
+  "presentation": {
+    "pressedScale": 0.956,
+    "releaseDuration": 0.12,
+    "selectionDuration": 0.14,
+    "iconRevealDuration": 0.08,
+    "impactVolume": 0.65,
+    "interfaceVolume": 0.8,
+    "resourceCoverage": 0.92
   }
 }

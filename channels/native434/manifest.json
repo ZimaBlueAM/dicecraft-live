@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "contentVersion": 17,
+  "contentVersion": 19,
   "minimumBuild": 434,
   "channel": "production",
   "files": [
@@ -13,7 +13,7 @@
     "text/strings.json",
     "assets/manifest.json"
   ],
-  "notes": "C17: existing native terrain adds 7-column boards; 5/6/7 columns x 7/8/9 rows. Rules, resource pool, hazards, timing, audio and old saves unchanged.",
+  "notes": "C19 feedback-only: clearer press scale, shorter supported release/selection/icon transitions, lighter impact and wood-interface volume. Preserves C17 terrain and every gameplay, equipment and music value; independent C18 camera unchanged.",
   "hashes": {
     "dice/catalog.json": "734d1e6711a78ff1a2d38b7c8c7337267ec78bb6eefd7f2ea34f52eadaa58950",
     "cocktails/catalog.json": "7c4e19ac56f2a66226c59ac27b4fb43e794203fbc383680d93da4ebae55ef92c",
@@ -22,6 +22,6 @@
     "maps/templates.json": "cdbae38c26ca2edb5ea22738cead84afbbb476edfca322f4a155bc001f678644",
     "monsters/catalog.json": "ff889801dc8c6e480dded56bc313efd68d37533886e0e8c03ea4a0e217fe818d",
     "text/strings.json": "e4a89790800ab79d4428bb95c260bbfad35cd87400d0f74896bc6fafba560938",
-    "assets/manifest.json": "c160a708567700c5f7ab518a94ca2ce50a6461e4e654dbd9fc6cc58ed1ce5767"
+    "assets/manifest.json": "17553a165b4f27fd7cbe792e9b51abc3eebe16122088aad651b73f25aed65a69"
   }
 }

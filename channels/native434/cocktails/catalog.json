@@ -9,7 +9,8 @@
         "condition": "twoPairs",
         "numerator": 2,
         "denominator": 1
-      }
+      },
+      "openingWeight": 3
     },
     {
       "id": "echoNegroni",
@@ -20,7 +21,8 @@
         "numerator": 1,
         "denominator": 1
       },
-      "cap": 4
+      "cap": 4,
+      "openingWeight": 3
     },
     {
       "id": "goldenSour",
@@ -31,7 +33,8 @@
         "numerator": 1,
         "denominator": 1
       },
-      "cap": 3
+      "cap": 3,
+      "openingWeight": 3
     },
     {
       "id": "nightHighball",
@@ -41,7 +44,8 @@
         "condition": "straight",
         "numerator": 1,
         "denominator": 1
-      }
+      },
+      "openingWeight": 3
     },
     {
       "id": "obsidianSpirit",
@@ -51,7 +55,8 @@
         "condition": "always",
         "numerator": 5,
         "denominator": 4
-      }
+      },
+      "openingWeight": 3
     },
     {
       "id": "lastSip",
@@ -62,7 +67,8 @@
         "numerator": 1,
         "denominator": 1
       },
-      "cap": 3
+      "cap": 3,
+      "openingWeight": 3
     },
     {
       "id": "cedarReserve",
@@ -74,10 +80,10 @@
         "denominator": 1
       },
       "cap": 4,
-      "openingWeight": 0,
+      "openingWeight": 1,
       "localAppearance": {
         "modelID": "glass.copita",
-        "seed": 41500
+        "seed": 497792
       }
     },
     {
@@ -90,10 +96,10 @@
         "denominator": 2
       },
       "cap": 4,
-      "openingWeight": 0,
+      "openingWeight": 1,
       "localAppearance": {
         "modelID": "glass.coupe",
-        "seed": 41501
+        "seed": 454363
       }
     },
     {
@@ -106,10 +112,10 @@
         "denominator": 1
       },
       "cap": 4,
-      "openingWeight": 0,
+      "openingWeight": 1,
       "localAppearance": {
         "modelID": "glass.snifter",
-        "seed": 41502
+        "seed": 461473
       }
     },
     {
@@ -122,10 +128,10 @@
         "denominator": 5
       },
       "cap": 4,
-      "openingWeight": 0,
+      "openingWeight": 1,
       "localAppearance": {
         "modelID": "glass.highball",
-        "seed": 41503
+        "seed": 453834
       }
     }
   ]

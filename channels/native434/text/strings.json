@@ -1,6 +1,6 @@
 {
   "strings": {
-    "content.update.ready": "C20 已校验：新开局的五杯酒全部使用随机生成器；点击换酒重组杯型、材质和酒液。",
+    "content.update.ready": "C21 酒液外观已校验：保留随机酒，加入4款三层与泡沫精选酒。新开局后可见，本局内容不变。",
     "content.update.nextRun": "本局保持原版本。返回首页新开局，再点击换酒查看随机外观；同一技能名也可以有不同外观。",
     "map.resource.name": "随机补给",
     "dice.fusion.result": "合成永恒骰"

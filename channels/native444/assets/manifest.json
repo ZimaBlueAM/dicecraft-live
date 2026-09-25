@@ -236,12 +236,12 @@
     "interfaceVolume": 1,
     "resourceCoverage": 0.92,
     "openingCamera443": {
-      "revision": 2,
+      "revision": 3,
       "beatsPerShot": 2,
-      "minimumShotSeconds": 1.15,
+      "minimumShotSeconds": 1.3,
       "transitionSeconds": 0.2,
       "fieldOfView": 40,
-      "driftDegrees": 0.8,
+      "driftDegrees": 0.6,
       "whipDistance": 0.1,
       "order": "shuffled",
       "viewpoints": [
@@ -281,18 +281,42 @@
           "id": "wide",
           "enabled": true,
           "yawDegrees": -160,
-          "elevationDegrees": 9,
-          "distanceScale": 1.24,
+          "elevationDegrees": 14,
+          "distanceScale": 1.26,
           "targetHeight": 0.5
+        },
+        {
+          "id": "left-profile",
+          "enabled": true,
+          "yawDegrees": 78,
+          "elevationDegrees": 5,
+          "distanceScale": 1.12,
+          "targetHeight": 0.5
+        },
+        {
+          "id": "right-profile",
+          "enabled": true,
+          "yawDegrees": -85,
+          "elevationDegrees": 7,
+          "distanceScale": 1.15,
+          "targetHeight": 0.5
+        },
+        {
+          "id": "high-quarter",
+          "enabled": true,
+          "yawDegrees": 135,
+          "elevationDegrees": 14,
+          "distanceScale": 1.18,
+          "targetHeight": 0.52
         }
       ],
       "cinematic444": {
-        "orbitDegrees": 14,
-        "entryOrbitDegrees": 12,
-        "exitOrbitDegrees": 10,
-        "entryDistanceScale": 1.2,
-        "exitDistanceScale": 1.12,
-        "lateralTravel": 0.025
+        "orbitDegrees": 20,
+        "entryOrbitDegrees": 16,
+        "exitOrbitDegrees": 14,
+        "entryDistanceScale": 1.24,
+        "exitDistanceScale": 1.16,
+        "lateralTravel": 0.035
       }
     }
   }

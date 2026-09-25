@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "contentVersion": 15,
+  "contentVersion": 18,
   "minimumBuild": 444,
   "channel": "production",
   "files": [
@@ -13,7 +13,7 @@
     "text/strings.json",
     "assets/manifest.json"
   ],
-  "notes": "C15: hard musical cuts; speed-ramped orbit, dolly and lateral entry/exit; gameplay and music unchanged.",
+  "notes": "C18 camera-only: eight shuffled viewpoints, wider slow orbit and speed-ramped entry/exit. No new map-camera code; game, music and equipment unchanged.",
   "hashes": {
     "dice/catalog.json": "734d1e6711a78ff1a2d38b7c8c7337267ec78bb6eefd7f2ea34f52eadaa58950",
     "cocktails/catalog.json": "7c4e19ac56f2a66226c59ac27b4fb43e794203fbc383680d93da4ebae55ef92c",
@@ -22,6 +22,6 @@
     "maps/templates.json": "03aa750af303036950e6619630dfec27420669a7f878b537bddafa888450d534",
     "monsters/catalog.json": "ff889801dc8c6e480dded56bc313efd68d37533886e0e8c03ea4a0e217fe818d",
     "text/strings.json": "e4a89790800ab79d4428bb95c260bbfad35cd87400d0f74896bc6fafba560938",
-    "assets/manifest.json": "bdc2d9e4abd5d80d4136b8f9587380e829026db993397ae3266b7c5847243ab8"
+    "assets/manifest.json": "4d9fcd8d10e5f0b2a1500a46fe655bea0e2aa7a83cd9c440a8f3b41608142001"
   }
 }

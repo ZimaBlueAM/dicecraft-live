@@ -1,0 +1,197 @@
+{
+  "assets": [
+    {
+      "id": "music.menu",
+      "kind": "audio",
+      "bundled": "Audio/Loops/juego-de-azar.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.menu.muffled",
+      "kind": "audio",
+      "bundled": "Audio/Loops/juego-de-azar-muffled.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.board",
+      "kind": "audio",
+      "bundled": "Audio/Loops/board-walk.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.board.muffled",
+      "kind": "audio",
+      "bundled": "Audio/Loops/board-walk-muffled.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.table",
+      "kind": "audio",
+      "bundled": "Audio/Loops/table-tango.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.table.muffled",
+      "kind": "audio",
+      "bundled": "Audio/Loops/table-tango-muffled.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.battle",
+      "kind": "audio",
+      "bundled": "Audio/Loops/battle-normal.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.battle.muffled",
+      "kind": "audio",
+      "bundled": "Audio/Loops/battle-normal-muffled.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.boss.polished",
+      "kind": "audio",
+      "bundled": "Audio/Loops/boss-polished-table.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.boss.polished.muffled",
+      "kind": "audio",
+      "bundled": "Audio/Loops/boss-polished-table-muffled.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.boss.slow",
+      "kind": "audio",
+      "bundled": "Audio/Loops/boss-roll-it-slow.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "music.boss.slow.muffled",
+      "kind": "audio",
+      "bundled": "Audio/Loops/boss-roll-it-slow-muffled.caf",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "ambience.bar",
+      "kind": "audio",
+      "bundled": "Audio/Ambience/bar-crowd-loop.wav",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "ambience.table",
+      "kind": "audio",
+      "bundled": "Audio/Ambience/table-crowd-loop.wav",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "sfx.drink.double",
+      "kind": "audio",
+      "bundled": "Audio/SFX/drink/04_double_gulp.wav",
+      "remoteURL": null,
+      "sha256": null,
+      "byteCount": null
+    },
+    {
+      "id": "suno.96ad5f21-7c0f-427f-8880-39da78716f66.regular",
+      "kind": "audio",
+      "bundled": "Audio/Suno446/96ad5f21-7c0f-427f-8880-39da78716f66.m4a",
+      "remoteURL": "https://raw.githubusercontent.com/ZimaBlueAM/dicecraft-live/main/media/music446/41856d0a826453b37d9ba3301ae24a3ad89cead31b82db0523f356c4a8df110b.m4a",
+      "sha256": "41856d0a826453b37d9ba3301ae24a3ad89cead31b82db0523f356c4a8df110b",
+      "byteCount": 1915436
+    },
+    {
+      "id": "suno.96ad5f21-7c0f-427f-8880-39da78716f66.muffled",
+      "kind": "audio",
+      "bundled": "Audio/Suno446/96ad5f21-7c0f-427f-8880-39da78716f66-muffled.m4a",
+      "remoteURL": "https://raw.githubusercontent.com/ZimaBlueAM/dicecraft-live/main/media/music446/3eb96f0acb91e3eda48b771c659d844f6d3b18a5a19544e8833e961824a194b0.m4a",
+      "sha256": "3eb96f0acb91e3eda48b771c659d844f6d3b18a5a19544e8833e961824a194b0",
+      "byteCount": 1893068
+    },
+    {
+      "id": "suno.96ad5f21-7c0f-427f-8880-39da78716f66.probe",
+      "kind": "musicProbe",
+      "bundled": "Audio/Suno446/96ad5f21-7c0f-427f-8880-39da78716f66.json",
+      "remoteURL": "https://raw.githubusercontent.com/ZimaBlueAM/dicecraft-live/main/media/music446/36d825650b08e1aeb23d55e294abf5bd39c9f527b53790058d03bb02c28370cf.json",
+      "sha256": "36d825650b08e1aeb23d55e294abf5bd39c9f527b53790058d03bb02c28370cf",
+      "byteCount": 164534
+    },
+    {
+      "id": "suno.e599b2bc-8a81-4e66-8940-bffb7cce67d1.regular",
+      "kind": "audio",
+      "bundled": "Audio/Suno446/e599b2bc-8a81-4e66-8940-bffb7cce67d1.m4a",
+      "remoteURL": "https://raw.githubusercontent.com/ZimaBlueAM/dicecraft-live/main/media/music446/2f0ddbf05e5cd10dc4c839e4d36e3211539d6213244ab0e490f7e7234fcf0991.m4a",
+      "sha256": "2f0ddbf05e5cd10dc4c839e4d36e3211539d6213244ab0e490f7e7234fcf0991",
+      "byteCount": 2193789
+    },
+    {
+      "id": "suno.e599b2bc-8a81-4e66-8940-bffb7cce67d1.muffled",
+      "kind": "audio",
+      "bundled": "Audio/Suno446/e599b2bc-8a81-4e66-8940-bffb7cce67d1-muffled.m4a",
+      "remoteURL": "https://raw.githubusercontent.com/ZimaBlueAM/dicecraft-live/main/media/music446/025d8b602eeb2f43a1def48eb3014fe0d08be6e50ce92168cf16f60cf825e129.m4a",
+      "sha256": "025d8b602eeb2f43a1def48eb3014fe0d08be6e50ce92168cf16f60cf825e129",
+      "byteCount": 2143445
+    },
+    {
+      "id": "suno.e599b2bc-8a81-4e66-8940-bffb7cce67d1.probe",
+      "kind": "musicProbe",
+      "bundled": "Audio/Suno446/e599b2bc-8a81-4e66-8940-bffb7cce67d1.json",
+      "remoteURL": "https://raw.githubusercontent.com/ZimaBlueAM/dicecraft-live/main/media/music446/ae77af3bb9070cea40bee2314e9800db54e588a96b8ca4263741dd323bc13eb9.json",
+      "sha256": "ae77af3bb9070cea40bee2314e9800db54e588a96b8ca4263741dd323bc13eb9",
+      "byteCount": 191504
+    }
+  ],
+  "schemaVersion": 2,
+  "musicPlaylist": {
+    "mode": "shuffleBag",
+    "includeOriginal": false,
+    "songs": [
+      {
+        "id": "suno.96ad5f21-7c0f-427f-8880-39da78716f66",
+        "title": "Strict Four-Beat Reset",
+        "duration": 112.05950113378685,
+        "gain": 1.0,
+        "regularAssetID": "suno.96ad5f21-7c0f-427f-8880-39da78716f66.regular",
+        "muffledAssetID": "suno.96ad5f21-7c0f-427f-8880-39da78716f66.muffled",
+        "probeAssetID": "suno.96ad5f21-7c0f-427f-8880-39da78716f66.probe"
+      },
+      {
+        "id": "suno.e599b2bc-8a81-4e66-8940-bffb7cce67d1",
+        "title": "Células de Cuatro Compases",
+        "duration": 128.82430839002268,
+        "gain": 1.0,
+        "regularAssetID": "suno.e599b2bc-8a81-4e66-8940-bffb7cce67d1.regular",
+        "muffledAssetID": "suno.e599b2bc-8a81-4e66-8940-bffb7cce67d1.muffled",
+        "probeAssetID": "suno.e599b2bc-8a81-4e66-8940-bffb7cce67d1.probe"
+      }
+    ]
+  }
+}

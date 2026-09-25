@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "contentVersion": 16,
+  "minimumBuild": 446,
+  "channel": "production",
+  "files": [
+    "dice/catalog.json",
+    "cocktails/catalog.json",
+    "balance/global.json",
+    "loot/rarity.json",
+    "maps/templates.json",
+    "monsters/catalog.json",
+    "text/strings.json",
+    "assets/manifest.json"
+  ],
+  "notes": "C16 music-only source: DICE Game playlist, 2 exact-ID exported songs ready; 16 pending. Embedded source-hash beat grids and 220-2500Hz envelopes. Gameplay/C13 unchanged.",
+  "hashes": {
+    "dice/catalog.json": "734d1e6711a78ff1a2d38b7c8c7337267ec78bb6eefd7f2ea34f52eadaa58950",
+    "cocktails/catalog.json": "7c4e19ac56f2a66226c59ac27b4fb43e794203fbc383680d93da4ebae55ef92c",
+    "balance/global.json": "7f5688344e6ff17f1645e460b2e336b043ea4fea3256c79a1b0988f63ebc6835",
+    "loot/rarity.json": "b43afc48af98dbf0e757e7de25d4991319d9a64d5bf077470eec10e82c196ad2",
+    "maps/templates.json": "03aa750af303036950e6619630dfec27420669a7f878b537bddafa888450d534",
+    "monsters/catalog.json": "ff889801dc8c6e480dded56bc313efd68d37533886e0e8c03ea4a0e217fe818d",
+    "text/strings.json": "e4a89790800ab79d4428bb95c260bbfad35cd87400d0f74896bc6fafba560938",
+    "assets/manifest.json": "3c8c643ef163b8cfd86789a988dacbd1559998083f6982e5d5a2ea37f0727737"
+  }
+}

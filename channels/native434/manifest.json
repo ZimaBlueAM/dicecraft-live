@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "contentVersion": 19,
+  "contentVersion": 20,
   "minimumBuild": 434,
   "channel": "production",
   "files": [
@@ -13,15 +13,15 @@
     "text/strings.json",
     "assets/manifest.json"
   ],
-  "notes": "C19 feedback-only: clearer press scale, shorter supported release/selection/icon transitions, lighter impact and wood-interface volume. Preserves C17 terrain and every gameplay, equipment and music value; independent C18 camera unchanged.",
+  "notes": "C20: every opening glass uses existing per-instance procedural generation refreshed by reroll, not a fixed skin pool. Four fixed-seed cocktails leave opening selection; all skill definitions and existing saves remain. Preserves C19 feedback, C17 terrain, loot/effects, independent camera and music.",
   "hashes": {
     "dice/catalog.json": "734d1e6711a78ff1a2d38b7c8c7337267ec78bb6eefd7f2ea34f52eadaa58950",
-    "cocktails/catalog.json": "7c4e19ac56f2a66226c59ac27b4fb43e794203fbc383680d93da4ebae55ef92c",
+    "cocktails/catalog.json": "5e0f41ebb6d01ad38b8623238c50a4a3cf99895d873ed8e39e1889c3ea32f06a",
     "balance/global.json": "7f5688344e6ff17f1645e460b2e336b043ea4fea3256c79a1b0988f63ebc6835",
     "loot/rarity.json": "b43afc48af98dbf0e757e7de25d4991319d9a64d5bf077470eec10e82c196ad2",
     "maps/templates.json": "cdbae38c26ca2edb5ea22738cead84afbbb476edfca322f4a155bc001f678644",
     "monsters/catalog.json": "ff889801dc8c6e480dded56bc313efd68d37533886e0e8c03ea4a0e217fe818d",
-    "text/strings.json": "e4a89790800ab79d4428bb95c260bbfad35cd87400d0f74896bc6fafba560938",
+    "text/strings.json": "a95c156ef2b4ecd3ed1dfbdf2ad734fdd679937b7f2618dd09483e40fc9491ac",
     "assets/manifest.json": "17553a165b4f27fd7cbe792e9b51abc3eebe16122088aad651b73f25aed65a69"
   }
 }

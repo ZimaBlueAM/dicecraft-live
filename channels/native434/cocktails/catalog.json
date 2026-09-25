@@ -74,7 +74,7 @@
         "denominator": 1
       },
       "cap": 4,
-      "openingWeight": 1,
+      "openingWeight": 0,
       "localAppearance": {
         "modelID": "glass.copita",
         "seed": 41500
@@ -90,7 +90,7 @@
         "denominator": 2
       },
       "cap": 4,
-      "openingWeight": 1,
+      "openingWeight": 0,
       "localAppearance": {
         "modelID": "glass.coupe",
         "seed": 41501
@@ -106,7 +106,7 @@
         "denominator": 1
       },
       "cap": 4,
-      "openingWeight": 1,
+      "openingWeight": 0,
       "localAppearance": {
         "modelID": "glass.snifter",
         "seed": 41502
@@ -122,7 +122,7 @@
         "denominator": 5
       },
       "cap": 4,
-      "openingWeight": 1,
+      "openingWeight": 0,
       "localAppearance": {
         "modelID": "glass.highball",
         "seed": 41503

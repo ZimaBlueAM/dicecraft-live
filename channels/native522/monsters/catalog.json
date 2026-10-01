@@ -1,0 +1,11 @@
+{
+  "defaults": {
+    "normalHealthMultiplier": 1.0,
+    "eliteHealthMultiplier": 1.0,
+    "bossHealthMultiplier": 1.0,
+    "bossEveryLayers": 3,
+    "normalBaseBodies": 18,
+    "bossBaseBodies": 60
+  },
+  "schemaVersion": 2
+}

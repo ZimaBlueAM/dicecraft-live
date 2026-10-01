@@ -1,0 +1,329 @@
+{
+  "dice": [
+    {
+      "id": "dice.ivory.starter",
+      "name": "象牙骰",
+      "faces": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "numericBase": 1,
+      "scoreBase": 10,
+      "repeatCount": 1,
+      "resourceRewards": [],
+      "traits": [],
+      "dropWeight": 0
+    },
+    {
+      "id": "dice.amber",
+      "name": "琥珀永恒骰",
+      "faces": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "numericBase": 1,
+      "scoreBase": 15,
+      "repeatCount": 1,
+      "resourceRewards": [],
+      "traits": [],
+      "dropWeight": 1
+    },
+    {
+      "id": "dice.echo",
+      "name": "回声永恒骰",
+      "faces": [
+        1,
+        1,
+        3,
+        3,
+        5,
+        5
+      ],
+      "numericBase": 1,
+      "scoreBase": 10,
+      "repeatCount": 2,
+      "resourceRewards": [],
+      "traits": [],
+      "dropWeight": 1
+    },
+    {
+      "id": "dice.silver",
+      "name": "银纹永恒骰",
+      "faces": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "numericBase": 2,
+      "scoreBase": 12,
+      "repeatCount": 1,
+      "resourceRewards": [],
+      "traits": [],
+      "dropWeight": 1
+    },
+    {
+      "id": "dice.gold",
+      "name": "点金永恒骰",
+      "faces": [
+        2,
+        2,
+        4,
+        4,
+        6,
+        6
+      ],
+      "numericBase": 1,
+      "scoreBase": 10,
+      "repeatCount": 1,
+      "resourceRewards": [
+        {
+          "resource": "gold",
+          "amount": 2,
+          "oncePerBattle": true
+        }
+      ],
+      "traits": [],
+      "dropWeight": 1
+    },
+    {
+      "id": "dice.cinder",
+      "name": "炉灰永恒骰",
+      "faces": [
+        1,
+        3,
+        3,
+        5,
+        5,
+        6
+      ],
+      "numericBase": 1,
+      "scoreBase": 10,
+      "repeatCount": 1,
+      "resourceRewards": [
+        {
+          "resource": "temperingMaterials",
+          "amount": 1,
+          "oncePerBattle": true
+        }
+      ],
+      "traits": [],
+      "dropWeight": 1
+    },
+    {
+      "id": "dice.still",
+      "name": "酿材永恒骰",
+      "faces": [
+        1,
+        2,
+        2,
+        4,
+        4,
+        6
+      ],
+      "numericBase": 1,
+      "scoreBase": 10,
+      "repeatCount": 1,
+      "resourceRewards": [
+        {
+          "resource": "brewingMaterials",
+          "amount": 1,
+          "oncePerBattle": true
+        }
+      ],
+      "traits": [],
+      "dropWeight": 1
+    },
+    {
+      "id": "dice.418.even",
+      "name": "偶数骰",
+      "faces": [
+        2,
+        2,
+        4,
+        4,
+        6,
+        6
+      ],
+      "numericBase": 1,
+      "scoreBase": 9,
+      "repeatCount": 1,
+      "resourceRewards": [],
+      "traits": [],
+      "dropWeight": 12,
+      "localAppearance": {
+        "modelID": "body.faceted",
+        "seed": 41800
+      },
+      "modelAssetID": null,
+      "textureAssetID": null
+    },
+    {
+      "id": "dice.418.odd",
+      "name": "奇数骰",
+      "faces": [
+        1,
+        1,
+        3,
+        3,
+        5,
+        5
+      ],
+      "numericBase": 1,
+      "scoreBase": 9,
+      "repeatCount": 1,
+      "resourceRewards": [],
+      "traits": [],
+      "dropWeight": 12,
+      "localAppearance": {
+        "modelID": "body.pillow",
+        "seed": 41801
+      },
+      "modelAssetID": null,
+      "textureAssetID": null
+    },
+    {
+      "id": "dice.418.anchor",
+      "name": "定相骰",
+      "faces": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "numericBase": 1,
+      "scoreBase": 6,
+      "repeatCount": 1,
+      "resourceRewards": [],
+      "traits": [],
+      "dropWeight": 12,
+      "localAppearance": {
+        "modelID": "body.rounded",
+        "seed": 41802
+      },
+      "modelAssetID": null,
+      "textureAssetID": null
+    },
+    {
+      "id": "dice.418.extremes",
+      "name": "两极骰",
+      "faces": [
+        1,
+        1,
+        1,
+        6,
+        6,
+        6
+      ],
+      "numericBase": 1,
+      "scoreBase": 8,
+      "repeatCount": 1,
+      "resourceRewards": [],
+      "traits": [],
+      "dropWeight": 12,
+      "localAppearance": {
+        "modelID": "body.thick-edge",
+        "seed": 41803
+      },
+      "modelAssetID": null,
+      "textureAssetID": null
+    },
+    {
+      "id": "dice.418.echo-balanced",
+      "name": "双响骰",
+      "faces": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "numericBase": 1,
+      "scoreBase": 5,
+      "repeatCount": 2,
+      "resourceRewards": [],
+      "traits": [],
+      "dropWeight": 12,
+      "localAppearance": {
+        "modelID": "body.hollow",
+        "seed": 41804
+      },
+      "modelAssetID": null,
+      "textureAssetID": null
+    },
+    {
+      "id": "dice.418.goldflow",
+      "name": "零钱骰",
+      "faces": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "numericBase": 1,
+      "scoreBase": 7,
+      "repeatCount": 1,
+      "resourceRewards": [
+        {
+          "resource": "gold",
+          "amount": 1,
+          "oncePerBattle": true
+        }
+      ],
+      "traits": [],
+      "dropWeight": 12,
+      "localAppearance": {
+        "modelID": "body.faceted",
+        "seed": 41805
+      },
+      "modelAssetID": null,
+      "textureAssetID": null
+    },
+    {
+      "id": "dice.418.brewflow",
+      "name": "酿材骰",
+      "faces": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "numericBase": 1,
+      "scoreBase": 7,
+      "repeatCount": 1,
+      "resourceRewards": [
+        {
+          "resource": "brewingMaterials",
+          "amount": 1,
+          "oncePerBattle": true
+        }
+      ],
+      "traits": [],
+      "dropWeight": 12,
+      "localAppearance": {
+        "modelID": "body.pillow",
+        "seed": 41806
+      },
+      "modelAssetID": null,
+      "textureAssetID": null
+    }
+  ],
+  "schemaVersion": 2
+}
